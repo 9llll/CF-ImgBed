@@ -30,8 +30,8 @@
      */
     "vars": {
         // Ensure this "vars" is not a duplicate if one was uncommented above
-        "AUTH_USERNAME": "admin", // Replace with your desired username
-        "AUTH_PASSWORD": "password", // Replace with your desired password - USE SECRETS IN PRODUCTION!
+        "AUTH_USERNAME": "socool", // Replace with your desired username
+        "AUTH_PASSWORD": "1291095", // Replace with your desired password - USE SECRETS IN PRODUCTION!
     },
     /**
      * Note: Use secrets to store sensitive data.
